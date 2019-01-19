@@ -1,0 +1,15 @@
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\State\bin\Debug\State.exe.config
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\State\bin\Debug\State.exe
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\State\bin\Debug\State.pdb
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\State\obj\Debug\State.exe
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\State\obj\Debug\State.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\State\bin\Debug\State.exe.config
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\State\obj\Debug\State.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\State\obj\Debug\State.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\State\bin\Debug\State.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\State\bin\Debug\State.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Design_Pattern3\State\bin\Debug\State.exe.config
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Design_Pattern3\State\obj\Debug\State.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\Design_Pattern3\State\obj\Debug\State.pdb

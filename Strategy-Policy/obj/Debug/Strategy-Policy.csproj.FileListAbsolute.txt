@@ -1,0 +1,12 @@
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Strategy-Policy\bin\Debug\Strategy-Policy.exe.config
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Strategy-Policy\bin\Debug\Strategy-Policy.exe
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Strategy-Policy\bin\Debug\Strategy-Policy.pdb
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Strategy-Policy\obj\Debug\Strategy-Policy.csprojResolveAssemblyReference.cache
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Strategy-Policy\obj\Debug\Strategy-Policy.exe
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Strategy-Policy\obj\Debug\Strategy-Policy.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Strategy-Policy\bin\Debug\Strategy-Policy.exe.config
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Strategy-Policy\obj\Debug\Strategy-Policy.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Strategy-Policy\obj\Debug\Strategy-Policy.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Strategy-Policy\bin\Debug\Strategy-Policy.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Strategy-Policy\bin\Debug\Strategy-Policy.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Strategy-Policy\obj\Debug\Strategy-Policy.csprojResolveAssemblyReference.cache

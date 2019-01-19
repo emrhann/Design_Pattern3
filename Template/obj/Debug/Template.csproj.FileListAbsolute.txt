@@ -1,0 +1,12 @@
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Template\bin\Debug\Template.exe.config
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Template\bin\Debug\Template.exe
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Template\bin\Debug\Template.pdb
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Template\obj\Debug\Template.exe
+C:\Users\emir9\Desktop\Yeni klasör (3)\ödev5\Template\obj\Debug\Template.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Template\bin\Debug\Template.exe.config
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Template\obj\Debug\Template.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Template\obj\Debug\Template.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Template\bin\Debug\Template.exe
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Template\bin\Debug\Template.pdb
+C:\Users\emir9\Documents\Visual Studio 2015\Projects\ödev5\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
